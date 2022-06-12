@@ -1,5 +1,5 @@
 import Comments from "./comments/Comments";
-
+import "./comment.css";
 const App = () => {
   return (
     <div>
